@@ -1,5 +1,4 @@
-# Exploratory Data Analysis (EDA) Repository
-
+# Exploratory Data Analysis (EDA)
 This repository contains code and documentation for conducting Exploratory Data Analysis (EDA) on various datasets. The EDA process involves examining and visualizing datasets to better understand their characteristics, relationships, and insights that can be derived from them.
 
 ## Overview
@@ -10,16 +9,8 @@ Exploratory Data Analysis is a crucial step in the data analysis process. It all
 
 ## Dependencies
 
-pandas
-matplotlib
-seborn
+pandas,
+matplotlib,
+seborn,
 numpy
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Any credits or acknowledgements for datasets used in the analysis.
 
