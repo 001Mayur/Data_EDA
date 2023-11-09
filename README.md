@@ -14,3 +14,6 @@ matplotlib,
 seborn,
 numpy
 
+## EDA Project Status
+
+🚀 I'm actively working on the EDA project, conducting exploratory data analysis and extracting valuable insights from the data. Expect to see comprehensive visualizations and in-depth reports soon!
